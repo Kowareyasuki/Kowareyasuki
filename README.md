@@ -66,19 +66,8 @@ Software Engineer and AI Cloud Developer. Loves exploring and learning new thing
 
   - **Sumo Bot and Line Follower Robot:**
      A Robot that is capable of pushing and moving using sensor detections that pushes the enemy outside the ring (Sumo Bot) and A Robot that is capable of moving on its own along side the
-     line tracks without the assistance of a human on controls.
+     line tracks without the assistance of a human on controls. 8th place overall in International Robotics Competition.
 
-## What I am currently Interested and Working on?
-
-I am currently relearning Django Web Framework, Data analysis and Java Spring Boot. 
-
-I also accept commissions on Computer Engineering related projects i.e. Robotics, Python, Java App, Thesis prototype etc.. 
-
-Currently looking for an Entry Level job for fresh graduates that is related to Python or C so that I would be exposed to Industry standards! Preferabbly related to C or Python (much preferred hehe).
-
-I am more inclined towards Software side but can also do Hardware stuffs like Robotics as I love A.I and I'm slowly working my progress on learning the things for it!
-
-I would be glad be friending or collabing! Collaboration is also a way on expanding ones knowledge!
 
 ## SNS Links // Lets contact each other!
 
@@ -88,5 +77,3 @@ I would be glad be friending or collabing! Collaboration is also a way on expand
 [<img align="left" width="20px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/twitter/twitter-rounded-square.svg" />][twitter2]
 
 [linkedin]: https://www.linkedin.com/in/jericmarcel0321
-[twitter]: https://twitter.com/nakonama_
-[twitter2]: https://twitter.com/qz_mayakashi
