@@ -71,9 +71,5 @@ Software Engineer and AI Cloud Developer. Loves exploring and learning new thing
 
 ## SNS Links // Lets contact each other!
 
-[<img align="left" width="22px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/gmail/gmail.svg" />](mailto:jericgappi@gmail.com)
-[<img align="left" width="22px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/linkedin/linkedin.svg" />][linkedin]
-[<img align="left" width="20px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/twitter/twitter-rounded-square.svg" />][twitter]
-[<img align="left" width="20px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/twitter/twitter-rounded-square.svg" />][twitter2]
+[<img align="left" width="22px" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/gmail/gmail.svg" />](mailto:jericgappi@gmail.com)
 
-[linkedin]: https://www.linkedin.com/in/jericmarcel0321
