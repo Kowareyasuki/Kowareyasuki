@@ -30,7 +30,7 @@ Software Engineer and AI Cloud Developer. Loves exploring and learning new thing
 </div>
 
 ## Projects
-     I have some projects that are not uploaded and in private. But here are some notable ones. Thesis/Capstone and Commission Projects are not included here.
+     Some of the projects are uploaded in a different private repository due to being a commission or a private project being funded.
     
   -  <a href="https://github.com/75marsel/ProjectSayaka">**Project SAYAKA:**</a>
      Project Sayaka is a turn-based game using Python and PyQt5 GUI Framework. It has a database for accounts using SQLiteDict. This games requires walking of character and encountering
