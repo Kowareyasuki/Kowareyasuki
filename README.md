@@ -71,5 +71,6 @@ Software Engineer and AI Cloud Developer. Loves exploring and learning new thing
 
 ## SNS Links // Lets contact each other!
 
-[<img align="left" width="22px" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/gmail/gmail.svg" />](mailto:jericgappi@gmail.com)
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" />](mailto:jericgappi@gmail.com)
+
 
