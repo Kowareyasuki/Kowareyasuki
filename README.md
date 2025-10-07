@@ -9,12 +9,8 @@ Software Engineer and AI Cloud Developer. Loves exploring and learning new thing
 
 
 
- ## Skills / Tools / Techs
-
-  - **Programming Languages:** C, C++, Arduino, Python, Java (Android Studio), Javascript
-  - **Cloud Technology:** Amazon Web Services (AWS), Azure
-  - **Frameworks/Libraries:** Flask, PyQt5, Django, DJango REST, Pandas, OpenCV, ReactJS
-  - **Embedded Systems:** Robotics, Arduino, ESP32, NodeMCU, Sensors and Electronic Circuits
+ ## Skills?
+ 
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=75marsel&layout=compact" alt="Top Langs">
   </p>
@@ -24,10 +20,11 @@ Software Engineer and AI Cloud Developer. Loves exploring and learning new thing
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" href="https://www.python.org/" width="70">
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c.svg" href="https://en.wikipedia.org/wiki/C_(programming_language)" width="70">
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c++.svg" href="https://en.wikipedia.org/wiki/C%2B%2B" width="70">
-<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" href="https://code.visualstudio.com/" width="70">
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/flask.svg" href="https://flask.palletsprojects.com/en/3.0.x/" width="70">
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mongodb.svg" href="https://www.mongodb.com/" width="70">
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/postgresql.svg" href="/" width="70">
+<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/amazon.svg" href="/" width="70">
+<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/django.svg" href="/" width="70">
 
 
 </div>
