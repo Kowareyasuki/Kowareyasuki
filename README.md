@@ -1,73 +1,66 @@
-# Jeric Marcel L. Gappi - Computer Engineer - Robotics | AWS Certified
-Software Engineer and AI Cloud Developer. Loves exploring and learning new things! <br>
+<p align="center">
+  <img src="https://i.pinimg.com/736x/c9/f7/85/c9f78565cc2865bdd15438c99466a64d.jpg" alt="Firefly Banner" width="100%">
+</p>
 
- <!-- <img src="https://github-stats-alpha.vercel.app/api?username=75marsel&cc=22272e&tc=37BCF6&ic=fff&bc=0000"> -->
- <p align=center>
- <img src="https://github-stats-alpha.vercel.app/api?username=75marsel&cc=B0E1C3&tc=000000&ic=000000" href="https://github.com/75marsel">
- </p>
+# 🪵 Jeric Marcel L. Gappi | AI Solutions Architect
+**Computer Engineer • Cloud Architect • Automation Engineer**
 
+> *"I will show you... the fireflies' glow in the dark! Setting the seas of data ablaze."*
 
+<p align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username=75marsel&cc=B0E1C3&tc=000000&ic=000000" href="https://github.com/75marsel" height="175">
+  <img src="https://media.tenor.com/ZeT1BHkSVz4AAAAd/firefly-hsr.gif" alt="Henshin Transform" height="175" style="margin-left: 20px;">
+</p>
 
+---
 
- ## Skills?
- 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=75marsel&layout=compact" alt="Top Langs">
-  </p>
+## 🛠️ Operational Protocol: The SAM System (Core Focus)
+
+<img src="https://preview.redd.it/this-gotta-be-the-funniest-hsr-gif-of-all-time-im-sorry-v0-4sfuhytalz3d1.gif?width=600&auto=webp&s=a160125fdf9847fbe3630634e0d87aeac42c40d7" alt="Kurukuru" align="right" width="220" style="margin-left: 20px; border-radius: 8px;">
+
+Much like operating a strategic, molten-core mech suit, architecting enterprise AI requires balancing heavy-duty processing power with precision cloud control:
+
+*   **🔥 Execution Phase (AI Engineering):** Deploying scalable machine learning models and high-efficiency automation framework pipelines.
+*   **🛡️ Armor Safeguard (Cloud Architecture):** Engineering resilient, secure, and bulletproof infrastructure frameworks across AWS environments.
+*   **⚡ Scorched Earth (Systems Optimization):** Refactoring legacy systems, compiling efficient embedded automation, and wiping out operational latency.
+
+<br clear="right"/>
+
+---
+
+## 💻 Technical Arsenal (Skills & Technologies)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=75marsel&layout=compact" alt="Top Langs">
+</p>
 
 <div align="center">
-
-<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" href="https://www.python.org/" width="70">
-<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c.svg" href="https://en.wikipedia.org/wiki/C_(programming_language)" width="70">
-<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c++.svg" href="https://en.wikipedia.org/wiki/C%2B%2B" width="70">
-<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/flask.svg" href="https://flask.palletsprojects.com/en/3.0.x/" width="70">
-<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mongodb.svg" href="https://www.mongodb.com/" width="70">
-<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/postgresql.svg" href="/" width="70">
-<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/amazon.svg" href="/" width="70">
-<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/django.svg" href="/" width="70">
-
-
+  <!-- Dynamic placeholders using Shields.io for high professional standard -->
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" height="40">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" height="40">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="40">
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" height="40">
+  <img src="https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" height="40">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="40">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="40">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" height="40">
 </div>
 
-## Projects
-     Some of the projects are uploaded in a different private repository due to being a commission or a private project being funded.
-    
-  -  <a href="https://github.com/75marsel/ProjectSayaka">**Project SAYAKA:**</a>
-     Project Sayaka is a turn-based game using Python and PyQt5 GUI Framework. It has a database for accounts using SQLiteDict. This games requires walking of character and encountering
-     enemies and defeating them by answering randomized basic math calculations. The project uploaded here does not include images for copyright purposes.
-    
-  - <a href="https://github.com/75marsel/hangmangame">**The Hangman Game:**</a>
-     A Hangman game based on the same title Hangman. Where the player will start guessing the word by selecting appropriate letters to complete the puzzle. One mistake equals one step closer
-     to loosing the game. This was developed using Python and PyGame framework. It has a database only in text file format (.txt) and will be improved at future.
+---
 
-  - <a href="https://github.com/75marsel/ArduinoOpenCV_LED">**Sample Face Detection with OpenCV and Arduino (PyFrimata):**</a>
-     My freshmen face detection project using OpenCV and Python combined with Arduino's Firmata and Python's PyFirmata. Tested to turn on an LED if face is detecteed. This was also tested on
-     solenoid door lock.
+## 📊 Strategic Pilot Dossier
+*   **Designation:** AI Solutions Architect
+*   **Combat Specs:** Deep Learning Integration, Intelligent Robotic Automation, Cloud Infrastructure Design
+*   **Certifications:** AWS Certified 
 
-  - <a href="https://github.com/75marsel/InventoryManagementSystem">**Inventory Mangement System with User Authentication using DJango Full Stack:**</a>
-     A practice app for implementing most features for Django including the most basic to the crucial functionalities needed for a working web app. The finished product is expected to be an
-    RMA-focused Inventory Management Web application. Currently has CRUD, User Auth and will received iterative updates.
+<p align="center">
+  <img src="https://media.tenor.com/b2NENGB7lUEAAAAd/firefly-firefly-hsr.gif" alt="Firefly and SAM" width="45%">
+  <img src="https://giffiles.alphacoders.com/222/222612.gif" alt="Firefly Kurukuru" width="45%" style="margin-left: 5px;">
+</p>
 
-  - **RMA Serial Search using Python, PyQt5 and Pandas**</a>
-     Made to streamline the process of data searching, warranty computation and queries of millions of RMA related data. A gift for my Internship to make the process of RMA on technical department
-     fast. Developed using Python, PyQt5 GUI Framework and Pandas and with CSV Library for data handling and manipulation (for warranty computation),
-    
-  - **File Sorter:**
-    Harvard's CSO50P Final Project Requirement. A File sorter script written in Python. This will automatically moves files into file category specific named folders depending on the user settings applied. To keep the settings saved,
-    it uses SQLiteDict for storing the settings locally and MongoDB Atlas (PyMongo) for saving the settings to cloud for tinkering purposes! 
-    
-  -  <a href="https://github.com/75marsel/ArduinoLocationTracker">**Device Tracker with SMS Functionality and Short Range alarm:**</a>
-    An Embedded system developed using Arduino, SIM800L, GPS NEO6Mv2, nrf24l01 and buzzer module. This will locate the device and stores in the arduino. The user can then send text messages
-    to allow the tracker to send the coordinates back to the sender. It also has short range tracking using IR remote and RF communication. It will beep at second interval for locating
-    the whereabouts of the device.
+---
 
-  - **Sumo Bot and Line Follower Robot:**
-     A Robot that is capable of pushing and moving using sensor detections that pushes the enemy outside the ring (Sumo Bot) and A Robot that is capable of moving on its own along side the
-     line tracks without the assistance of a human on controls. 8th place overall in International Robotics Competition.
+## 🛜 Establish Comm-Link
+Ready to deploy advanced solutions or optimize your next cloud infrastructure race? Let's connect:
 
-
-## SNS Links // Lets contact each other!
-
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" />](mailto:jericgappi@gmail.com)
-
-
+[<img align="left" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Gmail" />](mailto:jericgappi@gmail.com)
