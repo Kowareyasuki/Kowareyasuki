@@ -3,7 +3,7 @@
 </p>
 
 # 🪵 Jeric Marcel L. Gappi | AI Solutions Architect
-**Computer Engineer • Cloud Architect • Automation Engineer**
+**Computer Engineer • Cloud Architect • Forward Deploy Engineer**
 
 > *"I will show you... the fireflies' glow in the dark! Setting the seas of data ablaze."*
 
